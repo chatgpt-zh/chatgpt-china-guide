@@ -1,14 +1,14 @@
 # ChatGPT官网 | ChatGPT中文版 最新使用指南，内含GPT4，GPT4o，GPT o1使用技巧【2025年4月】
 
-> 更新时间： 2025/04/20  
+> 更新时间： 2025/05/19
 
-本文提供全面的 **[ChatGPT 中文版](https://chat.yixiaai.com)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-o3，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://chat.chatgpt-chinese.com)**，提升工作效率。
+本文提供全面的 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-o3，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://chat.chatgpt-chinese.com)**，提升工作效率。
 
-本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://chat.yixiaai.com)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
+本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 
-ChatGPT 中文版：[chat.yixiaai.com](https://chat.yixiaai.com)   
-ChatGPT 镜像网站：[chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com)
+ChatGPT 中文版：[chat.lanjing.pro](https://chat.lanjing.pro)   
+ChatGPT 镜像网站：[xsimplechat.com](https://xsimplechat.com)
 
 ---
 
@@ -27,7 +27,7 @@ ChatGPT 镜像网站：[chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.c
 
 ## 什么是 ChatGPT 中文版？
 
-**[ChatGPT 中文版](https://chat.yixiaai.com)** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
+**[ChatGPT 中文版](https://xsimplechat.com)** 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅、更精准的对话体验。  
 与官方 ChatGPT 相比，中文版在以下方面更适合国内用户： 
 
 - **中文支持**：更流畅的中文对话能力，适合学习、办公和日常使用。
@@ -42,9 +42,9 @@ ChatGPT 镜像网站：[chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.c
 
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
-| [chat.yixiaai.com](https://chat.yixiaai.com)   | GPT-4, GPT-o1，deepseek-r1满血版，GPT4o-image、AI翻译、GPT-o3 mini、Gemini 2.5 Pro、AI PPT、Claude 3.7 Sonnet、Grok-3 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [chat.yixiaai.com](https://xsimplechat.com)   | GPT-4, GPT-o1，deepseek-r1满血版，GPT4o-image、AI翻译、GPT-o3 mini、Gemini 2.5 Pro、AI PPT、Claude 3.7 Sonnet、Grok-3 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com)         | GPT-4, GPT-o1,GPT 4o画图、 Gemini 2.5 Pro, deepseek-r1,GPT-o3、Claude 3.7 Sonnet、Grok  | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网         |
-| [cgn.lify.vip](https://cgn.lify.vip) | GPT-4, GPT-3.5 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
+| [chat.lanjing.pro](https://chat.lanjing.pro) | GPT-4, GPT-3.5 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/)   | GPT-3.5        | 有              | 无需注册，直接使用        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
 ---
@@ -88,7 +88,7 @@ ChatGPT 中文版专为中文用户优化，提供更流畅、更精准的中文
 ## 如何快速开始使用 ChatGPT 中文版
 
 ### **方法一：通过镜像网站快速体验**
-1. **选择镜像站点**：访问推荐的镜像站点（如 [chat.yixiaai.com](https://chat.yixiaai.com)）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 [chat.lanjing.pro](https://chat.lanjing.pro)）。
 2. **注册或直接使用**：
    - 邮箱注册：填写邮箱和密码，完成账号创建。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
@@ -99,7 +99,7 @@ ChatGPT 中文版专为中文用户优化，提供更流畅、更精准的中文
 
 ## ChatGPT 官网注册与使用教程
 
-1. **访问官网**：[chat.openai.com](https://chat.yixiaai.com)（需翻墙）。
+1. **访问官网**：[chat.openai.com](https://xsimplechat.com)（需翻墙）。
 2. **注册账号**：
    - 准备一个海外手机号，用于验证码验证。
    - 填写邮箱，设置密码完成注册。
