@@ -1,6 +1,6 @@
 # ChatGPT官网 | ChatGPT中文版 最新使用指南，内含GPT4，GPT4o，GPT o1使用技巧【2025年4月】
 
-> 更新时间： 2025/05/19
+> 更新时间： 2025/05/27
 
 本文提供全面的 **[ChatGPT 中文版](https://chat.lanjing.pro)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-o3，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://chat.chatgpt-chinese.com)**，提升工作效率。
 
@@ -42,7 +42,7 @@ ChatGPT 镜像网站：[xsimplechat.com](https://xsimplechat.com)
 
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
-| [chat.yixiaai.com](https://xsimplechat.com)   | GPT-4, GPT-o1，deepseek-r1满血版，GPT4o-image、AI翻译、GPT-o3 mini、Gemini 2.5 Pro、AI PPT、Claude 3.7 Sonnet、Grok-3 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [xsimplechat.com](https://xsimplechat.com)   | GPT-4, GPT-o1，deepseek-r1满血版，GPT4o-image、AI翻译、GPT-o3 mini、Gemini 2.5 Pro、AI PPT、Claude 3.7 Sonnet、Grok-3 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com)         | GPT-4, GPT-o1,GPT 4o画图、 Gemini 2.5 Pro, deepseek-r1,GPT-o3、Claude 3.7 Sonnet、Grok  | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网         |
 | [chat.lanjing.pro](https://chat.lanjing.pro) | GPT-4, GPT-3.5 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/)   | GPT-3.5        | 有              | 无需注册，直接使用        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
