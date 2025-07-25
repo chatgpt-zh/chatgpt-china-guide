@@ -1,6 +1,6 @@
 # ChatGPT官网 | ChatGPT中文版 最新使用指南，内含GPT4，GPT4o，GPT o1使用技巧【2025年7月】
 
-> 更新时间： 2025/07/21
+> 更新时间： 2025/07/26  
 
 本文提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-o3，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://chat.lanjingai.org)**，提升工作效率。
 
