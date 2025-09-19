@@ -1,13 +1,13 @@
-# ChatGPT官网 | ChatGPT中文版 最新使用指南，内含GPT4，GPT4o，GPT o1使用技巧【2025年7月】
+# ChatGPT官网 | ChatGPT中文版 最新使用指南，内含GPT5，GPT4o，GPT o1使用技巧【2025年7月】
 
-> 更新时间： 2025/07/26  
+> 更新时间： 2025/09/20  
 
-本文提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-o3，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://chat.lanjingai.org)**，提升工作效率。
+本文提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，推荐国内镜像网站，支持GPT-5和GPT-o3，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://ai.lanjingai.org)**，提升工作效率。
 
 本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
 
-ChatGPT 中文版：[chat.lanjingai.org](https://chat.lanjingai.org)   
+ChatGPT 中文版：[ai.lanjingai.org](https://ai.lanjingai.org)   
 ChatGPT 镜像网站：[xsimplechat.com](https://xsimplechat.com)
 
 ---
@@ -42,9 +42,9 @@ ChatGPT 镜像网站：[xsimplechat.com](https://xsimplechat.com)
 
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
-| [xsimplechat.com](https://xsimplechat.com)   | GPT-4, GPT-o1，deepseek-r1满血版，GPT4o-image、AI翻译、GPT-o3 mini、Gemini 2.5 Pro、AI PPT、Claude 3.7 Sonnet、Grok-3 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [chat.lanjingai.org](https://chat.lanjingai.org)         | GPT-4, GPT-o1,GPT 4o画图、 Gemini 2.5 Pro, deepseek-r1,GPT-o3、Claude 3.7 Sonnet、Grok  | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网         |
-| [xsimplechat.com](https://xsimplechat.com) | GPT-4, GPT-3.5 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
+| [xsimplechat.com](https://xsimplechat.com)   | GPT-5, GPT-o1，deepseek-r1满血版，GPT4o-image、AI翻译、GPT-o3 mini、Gemini 2.5 Pro、AI PPT、Claude 3.7 Sonnet、Grok-3 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [ai.lanjingai.org](https://ai.lanjingai.org)         | GPT-5, GPT-o1,GPT 4o画图、 Gemini 2.5 Pro, deepseek-r1,GPT-o3、Claude 3.7 Sonnet、Grok  | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网         |
+| [xsimplechat.com](https://xsimplechat.com) | GPT-5, GPT-3.5 | 有              | 无需注册，直接使用        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/)   | GPT-3.5        | 有              | 无需注册，直接使用        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
 ---
@@ -55,7 +55,7 @@ ChatGPT 镜像网站：[xsimplechat.com](https://xsimplechat.com)
 |------------------|-----------------------------|---------------------------------|
 | **访问方式**     | 需要翻墙，访问速度受限         | 无需翻墙，国内快速访问          |
 | **语言支持**     | 多语言（包括中文，但优化不足） | 专注中文优化，响应更精准        |
-| **功能支持**     | 支持 GPT-4、GPT-3.5          | 支持 GPT-4、GPT-3.5，部分站点提供扩展功能 |
+| **功能支持**     | 支持 GPT-5、GPT-3.5          | 支持 GPT-5、GPT-4，部分站点提供扩展功能 |
 | **免费使用**     | 免费额度有限，需购买付费套餐   | 部分镜像站提供免费使用          |
 | **注册流程**     | 需海外手机号注册              | 支持国内邮箱或手机快速登录              |
 
@@ -103,7 +103,7 @@ ChatGPT 中文版专为中文用户优化，提供更流畅、更精准的中文
 2. **注册账号**：
    - 准备一个海外手机号，用于验证码验证。
    - 填写邮箱，设置密码完成注册。
-3. **选择版本**：登录后可选择 GPT-4 或 GPT-3.5。
+3. **选择版本**：登录后可选择 GPT-5 或 GPT-4。
 4. **开始对话**：输入问题，体验原版 OpenAI 的智能回答。
 
 ---
@@ -113,8 +113,8 @@ ChatGPT 中文版专为中文用户优化，提供更流畅、更精准的中文
 1. **ChatGPT 中文版和官网有何不同？**  
    中文版是专为国内用户优化的服务，通过镜像站提供更快、更稳定的访问，而官网需要翻墙访问。
 
-2. **ChatGPT 中文版是否支持 GPT-4？**  
-   是的，大部分镜像站都支持 GPT-4 和 GPT-3.5。
+2. **ChatGPT 中文版是否支持 GPT-5？**  
+   是的，大部分镜像站都支持 GPT-5 和 GPT-4。
 
 3. **ChatGPT 中文版免费吗？**  
    部分镜像站提供免费试用额度，但高级功能可能需要付费。
